@@ -5,4 +5,4 @@ int main()
     i=10;
     printf("i=%m.4d",i);
     return 0;
-}
+} nknknk
